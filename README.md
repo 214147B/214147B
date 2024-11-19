@@ -7,7 +7,7 @@ Web Developer And Mobile Developer
 I’m a dedicated Information Technology undergraduate currently diving deep into the world of coding, technology, and innovation. My journey in tech is driven by a passion for Web Development, Mobile Development, and Creative Designing, coupled with a growing interest in the Networking field.
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [kavinda.portfolio](http://673c80d4c4dcc400fc7f63d6--kavindaportfolio.netlify.app/)
+* 🖥️  See my portfolio at [kavinda.portfolio](https://kavindaportfolio.netlify.app/)
 * ✉️  You can contact me at [kavindpererakkp@gmail.com](mailto:kavindpererakkp@gmail.com)
 * 🧠  I'm learning Python,Flutter
 * 🤝  I'm open to collaborating on I'm open to collaborating on Web Development projects with React, Angular, or Spring Boot, and Mobile App Development with React Native.
